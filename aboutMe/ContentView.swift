@@ -34,7 +34,7 @@ struct ContentView: View {
                
                 Button("Reveal") {
                     facts = "Pink"
-                    facts2 = "Biology"
+                    facts2 = "Biology."
                     facts3 = "Chocolate Chip Cookies"
                     facts4 = "15"
                 }
